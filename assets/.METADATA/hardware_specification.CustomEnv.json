@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "Custom_Env",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2021-11-25T11:13:33Z",
+    "created": 1637838813198,
+    "asset_id": "hardware_specification.CustomEnv",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "1",
+          "model": ""
+        },
+        "mem": {
+          "size": "2Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
